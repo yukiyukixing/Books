@@ -1,4 +1,4 @@
->书架：
+>书架。
 
 >个人定义：3颗星是70分，属于良好，4颗星是80分，属于优秀，5颗星是99分属于年度最喜欢书籍。
 
@@ -101,25 +101,3 @@
 | 95 | 我的二本学生 |  2022✅ | ⭐⭐⭐⭐⭐ |
 | 96 | 生存与体验 | |
 | 97 | 动物凶猛（给我顶住、动物凶猛、你不是一个俗人、许爷） | |
-
-<table><tbody>
-    <tr>
-        <th>方法说明</th><th>颜色名称</th><th>颜色</th>
-    </tr>
-    <tr>
-        <td><font color="Coral">此处实现方法利用Markdown内嵌html语言的优势</font>
-        </td>
-        <td><font color="Coral">Coral</font>
-        </td>
-        <td bgcolor="Coral">rgb(255, 127, 80)
-        </td>
-    </tr>
-    <tr>
-        <td><font color="CornflowerBlue">借助 table, tr, td 等表格标签的 bgcolor 属性实现背景色设置</font>
-        </td>
-        <td><font color="CornflowerBlue">AntiqueWhite</font>
-        </td>
-        <td bgcolor="CornflowerBlue">rgb(100, 149, 237)
-        </td>
-    </tr>
-</table>
